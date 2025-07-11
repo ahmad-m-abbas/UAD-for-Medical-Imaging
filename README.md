@@ -1,10 +1,6 @@
 # Unsupervised Anomaly Detection for Medical Imaging
 
-This is the repository for our paper
-
-
-
-
+This is the repository for our paper, it was copied from https://github.com/caiyu6666/MedIAnomaly repository and added our loss into it.
 
 ## Environment
 
